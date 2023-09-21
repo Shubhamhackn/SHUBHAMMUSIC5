@@ -7,7 +7,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/GOVIND-BOTS/count.svg" />
+ -->    <img align="middle" src="https://github.com/Shubhamhackn/SHUBHAMMUSIC5" />
 </p>
 
 
@@ -22,7 +22,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/2484a6d30efd3f5104ede.jpg">
+  <img src="https://telegra.ph/file/cf32c167593d92f5aa896.jpg">
 </p>
 
 **𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗜𝗖𝗖🍷𝗠𝗨𝗦𝗜𝗖❥𝄟⃟🥀](https://t.me/Govind_143_bot)**
@@ -41,7 +41,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/GOVIND-BOTS/haramibot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template= https://github.com/Shubhamhackn/SHUBHAMMUSIC5"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
