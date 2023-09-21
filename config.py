@@ -56,11 +56,11 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/GOVIND_USERBOT_UPDATE"
+    "SUPPORT_CHANNEL", "https://t.me/marathichatts"
 )  # Example:- https://t.me/arning_with_govind
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/GOVIND_MP_USERBOT_SPPORT"
-)  # Example:- https://t.me/GOVIND_MP_USERBOT_SPPORT
+    "SUPPORT_GROUP", "https://t.me/marathichatts"
+)  # Example:-  https://t.me/marathichatts
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -91,7 +91,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/GOVIND-BOTS/haramibot")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Shubhamhackn/SHUBHAMMUSIC5")
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "19609edb1b9f4ed7be0c8c1342039362")
@@ -159,11 +159,11 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/933ad1ed1e8f21a828841.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/cf32c167593d92f5aa896.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/52140df367bc46f955c6e.jpg",
+    " https://telegra.ph/file/cf32c167593d92f5aa896.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -173,7 +173,7 @@ PLAYLIST_IMG_URL = getenv(
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://te.legra.ph/file/3ce3743528bad04fa5cd2.jpg",
+    "https://telegra.ph/file/cf32c167593d92f5aa896.jpg",
 )
 
 STATS_IMG_URL = getenv(
