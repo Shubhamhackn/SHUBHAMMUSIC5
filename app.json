@@ -1,7 +1,7 @@
 {
     "name": "🌹⃝𖣔GOVIND.MUSIC🥀⛦⃕‌🇮🇳",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/f838cb9569f21b13a33d5.jpg",
+    "logo": "https://telegra.ph/file/cf32c167593d92f5aa896.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -59,7 +59,7 @@
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://te.legra.ph/file/2484a6d30efd3f5104ede.jpg",
+        "value": "https://telegra.ph/file/cf32c167593d92f5aa896.jpg",
         "required": false
       },
       "LOG_GROUP_ID": {
