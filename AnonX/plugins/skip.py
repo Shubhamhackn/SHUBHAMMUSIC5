@@ -15,18 +15,15 @@ from AnonX.utils.inline.play import (stream_markup,
 from AnonX.utils.stream.autoclear import auto_clean
 from AnonX.utils.thumbnails import gen_thumb
 
-# Commands
-SKIP_COMMAND = get_command("SKIP_COMMAND")
-
 
 @app.on_message(
-    filters.command(SKIP_COMMAND)
+
     & filters.group
     & ~filters.edited
     & ~BANNED_USERS
 )
 @AdminRightsCheck
-async def skip(cli, message: Message, _, chat_id):
+async def (cli, message: Message, _, chat_id):
     if not len(message.command) < 2:
         loop = await get_loop(chat_id)
         if loop != 0:
